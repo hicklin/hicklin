@@ -2,7 +2,7 @@
 
 ## Lead Embedded Systems Engineer
 
-**Email:** [resume@hicklin.mt] | **LinkedIn:** [www.linkedin.com/in/william-hicklin/](https://www.linkedin.com/in/william-hicklin/) | **Github:** [github.com/hicklin] | **Location:** Bristol, UK
+**Email:** [resume@hicklin.mt](mailto:resume@hicklin.mt) | **LinkedIn:** [www.linkedin.com/in/william-hicklin](https://www.linkedin.com/in/william-hicklin) | **Github:** [github.com/hicklin](https://github.com/hicklin) | **Location:** Bristol, UK
 
 ---
 

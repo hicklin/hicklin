@@ -35,9 +35,9 @@ Initiated and led strategic efforts to promote Rust as a production software lan
 
 #### Technologies & Methodologies:
 
-**Languages:** C++, Rust, Go
-**Hardware:** Embedded rust, Embedded Linux, Microcontroller systems
-**Tools:** PlantUML
+**Languages:** C++, Rust, Go  
+**Hardware:** Embedded rust, Embedded Linux, Microcontroller systems  
+**Tools:** PlantUML  
 
 ### **Senior Embedded Software Engineer** | Dyson | Feb 2020 - Apr 2024
 
@@ -61,8 +61,8 @@ I collaborated extensively with industrial designers, mechanical engineers, and 
 **Languages:** C++, Go, Python, Rust  
 **Systems:** Yocto, Docker, Balena, Matter  
 **Hardware:** PCB design and implementation, embedded systems architecture  
-**Tools:** Jira, Git, Altium Designer
-**Methodologies:** SAFe Agile, DevOps
+**Tools:** Jira, Git, Altium Designer  
+**Methodologies:** SAFe Agile, DevOps  
 
 ### **Systems Developer** | Air Monitors Limited | Feb 2018 - Jan 2020
 
@@ -85,10 +85,10 @@ As part of the Breathe London project, I collaborated with engineers from Google
 
 #### Technologies & Methodologies:
 
-**Languages:** C++, Python, JavaScript
-**Systems:** Embedded Linux, Yocto
-**Cloud:** MySQL, GCP, MQTT
-**Hardware:** Sensor integration, GPS systems, custom PCB specification
+**Languages:** C++, Python, JavaScript  
+**Systems:** Embedded Linux, Yocto  
+**Cloud:** MySQL, GCP, MQTT  
+**Hardware:** Sensor integration, GPS systems, custom PCB specification  
 
 ### **Research Support Officer** | University of Malta | Jan 2015 - Feb 2018
 
@@ -113,7 +113,7 @@ I collaborated with faculty and graduate students to design and execute air qual
 
 **Programming:** Python, Django, SQL, JavaScript  
 **Data Analysis:** R, Statistical methods, Time-series analysis  
-**Documentation:** LaTeX, Technical writing, SOP development
+**Documentation:** LaTeX, Technical writing, SOP development  
 
 ### **Systems Developer (Contract)** | University of Malta | May 2015 - Nov 2016
 
@@ -128,7 +128,7 @@ I worked closely with a multidisciplinary team of engineers and geophysicists fr
 #### Technologies & Methodologies:
 
 **Hardware:** Embedded microcontroller systems, Sensor interfacing  
-**Software:** Arduino, Python
+**Software:** Arduino, Python  
 
 ---
 

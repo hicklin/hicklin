@@ -115,7 +115,7 @@ I collaborated with faculty and graduate students to design and execute air qual
 **Data Analysis:** R, Statistical methods, Time-series analysis  
 **Documentation:** LaTeX, Technical writing, SOP development  
 
-### **Systems Developer (Contract)** | University of Malta | May 2015 - Nov 2016
+### **Systems Developer (Contract)** | University of Malta | May 2014 - Nov 2015
 
 _Malta_
 
@@ -129,6 +129,25 @@ I worked closely with a multidisciplinary team of engineers and geophysicists fr
 
 **Hardware:** Embedded microcontroller systems, Sensor interfacing  
 **Software:** Arduino, Python  
+
+---
+
+## Technical Skills
+
+- **Spoken Languages:** English, Maltese
+- **Languages:** C++, Go, Rust, Python
+- **Embedded:** Embedded Linux, Embedded Rust, Yocto, Balena
+- **Hardware:** PCB Design, Altium Designer
+- **Standards:** Matter Protocol
+- **Tools:** Altium Designer, PlantUML
+
+---
+
+## Professional Development
+
+- Comprehensive Rust Training (Ferrous Systems) | Jan 2024
+- Advanced C Programming (Feabhas) - AC-401 | Feb 2022
+- Developing Embedded Systems with Yocto (DOULOS) | Feb 2019
 
 ---
 
@@ -147,24 +166,6 @@ _University of Malta_ | 2008 - 2012
 
 - Grade: Merit (Second Upper)
 - Dissertation: "Construction and Characterisation of Dye-Sensitised Solar Cells: using natural dyes"
-
----
-
-## Technical Skills
-
-- **Languages:** C++, Python, Go, Rust (advancing)
-- **Embedded:** Embedded Linux, Embedded Rust, Yocto, Balena
-- **Hardware:** PCB Design, Altium Designer
-- **Standards:** Matter Protocol
-- **Methodologies:** SAFe, DevOps
-
----
-
-## Professional Development
-
-- Comprehensive Rust Training (Ferrous Systems) | Jan 2024
-- Advanced C Programming (Feabhas) - AC-401 | Feb 2022
-- Developing Embedded Systems with Yocto (DOULOS) | Feb 2019
 
 ---
 

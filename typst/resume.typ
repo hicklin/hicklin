@@ -23,6 +23,12 @@
   paper-size: "a4",
 )
 
+= Professional Summary
+
+#resume-item[
+  Results-driven embedded systems engineer with 7+ years of experience developing secure, reliable software for connected devices. Proficient in C++ and embedded Linux with growing expertise in Rust, delivering high-quality embedded solutions through cross-functional collaboration and technical leadership. Passionate about advancing memory-safe programming practices in embedded systems through Rust adoption and open-source contributions.
+]
+
 = Experience
 
 #resume-entry(
@@ -92,7 +98,7 @@
 #resume-entry(
   title: "Systems Developer (Contract)",
   location: "Msida, Malta",
-  date: "May 2015 - Nov 2016",
+  date: "May 2014 - Nov 2015",
   description: "University of Malta",
 )
 
@@ -103,8 +109,6 @@
   - Collaborated with international team of engineers in Palermo to integrate with the primary system.
   - Optimised power consumption for long-term underwater deployment.
 ]
-
-#pagebreak()
 
 = Skills
 
@@ -118,38 +122,12 @@
 )
 #resume-skill-item(
   "Systems",
-  ("Embedded Linux", "Matter", "Docker", "Balena", "Embedded Rust", "Yocto"),
+  ("Embedded Linux", "Matter", "Balena", "Embedded Rust", "Yocto"),
 )
 #resume-skill-item(
   "Tools",
   ("Altium Designer", "PlantUML"),
 )
-
-= Education
-
-#resume-entry(
-  title: "University of Malta",
-  location: "Msida, Malta",
-  date: "2012 - 2014",
-  description: "M.Sc. in Physics (Research)",
-)
-
-#resume-item[
-  - Grade: Distinction
-  - Dissertation: "Investigations of VOCs in buildings close to service stations"
-]
-
-#resume-entry(
-  title: "University of Malta",
-  location: "Msida, Malta",
-  date: "2012 - 2014",
-  description: "B.Sc. (Honours) in Chemistry and Physics",
-)
-
-#resume-item[
-  - Grade: Merit (Second Upper)
-  - Dissertation: "Construction and Characterisation of Dye-Sensitised Solar Cells: using natural dyes"
-]
 
 = Professional Development
 
@@ -172,3 +150,40 @@
   description: "DOULOS",
 )
 
+= Education
+
+#resume-entry(
+  title: "University of Malta",
+  location: "Msida, Malta",
+  date: "2012 - 2014",
+  description: "M.Sc. in Physics (Research)",
+)
+
+#resume-item[
+  - Grade: Distinction
+  - Dissertation: "Investigations of VOCs in buildings close to service stations"
+]
+
+#resume-entry(
+  title: "University of Malta",
+  location: "Msida, Malta",
+  date: "2008 - 2012",
+  description: "B.Sc. (Honours) in Chemistry and Physics",
+)
+
+#resume-item[
+  - Grade: Merit (Second Upper)
+  - Dissertation: "Construction and Characterisation of Dye-Sensitised Solar Cells: using natural dyes"
+]
+
+= Professional Strengths
+
+#resume-item[
+  - Technical leadership and mentorship
+  - Cross-functional collaboration
+  - Detailed code review and documentation
+  - Problem-solving and innovation
+  - Continuous improvement mindset
+  - Open-source contribution and advocacy
+  - Strong analytical thinking and attention to detail
+]

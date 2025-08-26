@@ -10,9 +10,8 @@
     birth: "9th March 1989",
     linkedin: "william-hicklin",
     positions: (
-      "Embedded Engineer",
-      "Systems Developer",
-      "Backend Engineer",
+      "Lead Systems Engineer",
+      "Platform Engineer",
     ),
   ),
   profile-picture: none,
@@ -26,28 +25,27 @@
 = Professional Summary
 
 #resume-item[
-  Results-driven embedded systems and backend engineer with 8+ years of experience developing secure, reliable software for connected devices. Proficient in C++ and embedded Linux with growing expertise in Rust, delivering high-quality embedded solutions through cross-functional collaboration and technical leadership. Passionate about advancing memory-safe programming practices in embedded systems through Rust adoption and open-source contributions.
+  Versatile Senior Software Engineer with over 8 years of experience building robust back-end systems and data platforms for IoT and scientific applications. Proficient in Go, Python and Rust with a strong foundation in C++, Linux systems, and cloud infrastructure (GCP, MQTT). Proven ability to lead development lifecycles, from system architecture to deployment, and collaborate effectively across engineering disciplines.
 ]
 
 = Experience
 
 #resume-entry(
-  title: "Lead Embedded Engineer",
+  title: "Lead Systems Engineer",
   location: "Bristol, UK",
   date: "Apr 2024 - Present",
   description: "Dyson",
 )
 
 #resume-item[
-  Leading embedded software development for connected devices, focusing on Matter protocol implementation and Rust adoption.
-  - #text(weight: "bold")[Matter Protocol Development:] Delivered the Service Area Cluster for Matter 1.4 specification and SDK, meeting all deadlines while producing comprehensive specifications, test plans, and implementation code.
-  - #text(weight: "bold")[Process Improvement:] Provided comprehensive feedback on the Matter development workflow, identifying pain points and proposing actionable solutions to technical leadership.
-  - #text(weight: "bold")[Open-Source Initiative:] Secured official approval for open-source software contributions and established new internal workflows, creating practical guides for engineers to contribute to open-source projects.
-  - #text(weight: "bold")[Rust Adoption Strategy:] Initiated efforts to promote Rust across the organisation, developed core libraries, created proof-of-concept examples, and contributed to open-source embedded Rust projects including `embassy-rs/trouble` and `rust-embedded/heapless`.
+  Leading software development for connected devices, focusing on Matter protocol implementation and Rust adoption.
+  - #text(weight: "bold")[Tool building:] Designed and delivered tooling using Go and TypeScript to enable fast and robust real-world emulation of UI/UX designs from Figma.
+  - #text(weight: "bold")[Matter Protocol Development:] Led development of core software components for a global IoT ecosystem (Matter), delivering specifications, test plans, and implementation code in C++.
+  - #text(weight: "bold")[Rust Adoption Strategy:] Initiated efforts to promote Rust across the organisation, developed core libraries, created proof-of-concept examples, and contributed to open-source embedded Rust projects including `embassy-rs/trouble` and `rust-embedded/heapless`.
 ]
 
 #resume-entry(
-  title: "Senior Embedded Software Engineer",
+  title: "Senior Systems Engineer",
   location: "Bristol, UK",
   date: "Feb 2020 - Apr 2024",
   description: "Dyson",
@@ -55,12 +53,10 @@
 
 #resume-item[
   Worked on a rapid prototyping team, delivering innovative prototypes and building platforms to accelerate development.
-
+  - Built and maintained modular libraries, frameworks and containerised applications enabling rapid delivery of projects.
+  - Designed and implemented full system solutions delivering high-fidelity prototypes.
   - Led Matter standard implementation efforts, collaborating with engineers across organisations to define specifications and implement new clusters for various device types.
-  - Designed and implemented embedded hardware and software solutions, including PCBs, back-end software, and embedded UIs.
-  - Built and maintained a custom OS using Yocto framework, creating tools for internal and external teams.
   - Mentored junior team members and led technical aspects of various projects.
-  - Developed containerised applications and drivers for rapid prototyping platform.
 ]
 
 #resume-entry(
@@ -71,12 +67,11 @@
 )
 
 #resume-item[
-  Led the development of an industrial embedded Linux data-logger for collecting data from air quality instruments.
-
-  - Designed and built hardware, developed testing applications, and implemented core software in C++.
-  - Created a custom OS with cross-compilers and an update server, established cloud infrastructure, and developed a web interface.
-  - Introduced and managed DevOps pipelines with comprehensive feature unit tests.
-  - Contributed to the Breathe London project with Google and Imperial College London, responsible for logging air quality and position data from mobile monitoring units.
+  - Architected and deployed a scalable IoT data platform on Google Cloud Platform (GCP), using MQTT for data ingestion and MySQL for time-series data storage.
+  - Developed the full back-end infrastructure for a commercial air quality monitoring system, enabling real-time data collection, processing, and visualization.
+  - Designed and built a custom embedded Linux OS using Yocto, including a secure OTA update mechanism to manage a fleet of remote data-loggers.
+  - Led systems development for the high-profile Breathe London project, collaborating with Google and Imperial College London to deliver reliable mobile data collection systems.
+  - Introduced modern development practices, including unit testing and agile methodologies, improving project visibility and predictability for management.
 ]
 
 #resume-entry(
@@ -113,20 +108,20 @@
 = Skills
 
 #resume-skill-item(
-  "Spoken Languages", 
-  ("English", "Maltese")
+  "Languages",
+  ("Python", "Go", "Rust", "SQL", "C++"),
 )
 #resume-skill-item(
-  "Languages",
-  ("C++", "Go", "Rust", "Python",),
+  "Back-End & Cloud",
+  ("Django", "Google Cloud Platform (GCP)", "Docker", "MQTT", "MySQL", "REST APIs"),
 )
 #resume-skill-item(
   "Systems",
-  ("Embedded Linux", "Matter", "Balena", "Embedded Rust", "Yocto", "Embassy"),
+  ("Linux", "Yocto", "Balena", "CI/CD"),
 )
 #resume-skill-item(
-  "Tools",
-  ("Altium Designer", "PlantUML"),
+  "tools",
+  ("Git", "Jira", "PlantUML"),
 )
 
 = Professional Development

@@ -8,13 +8,27 @@
 
 ## Professional Summary
 
-Results-driven embedded systems engineer with 7+ years of experience developing secure, reliable software for connected devices. Proficient in C++ and embedded Linux with growing expertise in Rust, delivering high-quality embedded solutions through cross-functional collaboration and technical leadership. Passionate about advancing memory-safe programming practices in embedded systems through Rust adoption and open-source contributions. 
+Results-driven embedded systems engineer with 8+ years of experience developing secure, reliable software for connected devices. Proficient in Rust, C++ and embedded Linux, delivering high-quality embedded solutions through cross-functional collaboration and technical leadership. Passionate about advancing memory-safe programming practices in embedded systems through Rust adoption and open-source contributions.
 
 ---
 
 ## Experience
 
-### **Lead Embedded Engineer** | Dyson | Apr 2024 - Present
+### **Rust software engineer** | Open-source | Aug 2025 - Present
+
+_Bristol, UK_
+
+Working on the Matter Smart Home Standard Rust SDK as an open-source contributor. I engage with tech leads from a number of organisations including Google, Espressif and the CSA and carry out the following tasks.
+
+- Lead the design and implementation of application level APIs, otherwise know as "clusters".
+- Add certification tests in CI against implemented clusters.
+- Produce documentation for SDK users and contributors.
+- Develop real-world examples and demonstrations.
+- Present work to the community.
+
+**Technologies:** Rust, Embedded Rust, Matter Protocol, PlantUML, C++
+
+### **Lead Embedded Engineer** | Dyson | Apr 2024 - Oct 2025
 
 _Bristol, UK_
 

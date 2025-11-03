@@ -10,8 +10,8 @@
     birth: "9th March 1989",
     linkedin: "william-hicklin",
     positions: (
+      "Systems Engineer",
       "Embedded Engineer",
-      "Systems Developer",
       "Researcher",
     ),
   ),
@@ -26,15 +26,32 @@
 = Professional Summary
 
 #resume-item[
-  Results-driven embedded systems engineer with 7+ years of experience developing secure, reliable software for connected devices. Proficient in C++ and embedded Linux with growing expertise in Rust, delivering high-quality embedded solutions through cross-functional collaboration and technical leadership. Passionate about advancing memory-safe programming practices in embedded systems through Rust adoption and open-source contributions.
+  Results-driven systems engineer with 8+ years of experience developing secure, reliable software for connected devices. Proficient in Rust, C++ and embedded Linux, delivering high-quality embedded solutions through cross-functional collaboration and technical leadership. Passionate about advancing memory-safe programming practices in embedded systems through Rust adoption and open-source contributions.
 ]
 
 = Experience
 
 #resume-entry(
+  title: "Rust software engineer",
+  location: "Bristol, UK",
+  date: "Aug 2025 - Present",
+  description: "Open-source",
+)
+
+#resume-item[
+  Working on the Matter Smart Home Standard Rust SDK as an open-source contributor. I engage with tech leads from a number of organisations including Google, Espressif and the CSA and carry out the following tasks.
+
+  - Lead the design and implementation of application level APIs, otherwise know as "clusters".
+  - Add certification tests in CI against implemented clusters.
+  - Produce documentation for SDK users and contributors.
+  - Develop real-world examples and demonstrations.
+  - Present work to the community.
+]
+
+#resume-entry(
   title: "Lead Embedded Engineer",
   location: "Bristol, UK",
-  date: "Apr 2024 - Present",
+  date: "Apr 2024 - Oct 2025",
   description: "Dyson",
 )
 
@@ -118,7 +135,7 @@
 )
 #resume-skill-item(
   "Languages",
-  ("C++", "Go", "Rust", "Python",),
+  ("Rust", "C++", "Go", "Python"),
 )
 #resume-skill-item(
   "Systems",

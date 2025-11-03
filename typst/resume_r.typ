@@ -10,7 +10,7 @@
     birth: "9th March 1989",
     linkedin: "william-hicklin",
     positions: (
-      "Lead Embedded Engineer",
+      "Lead Software Engineer",
       "Systems Developer",
     ),
   ),
@@ -25,13 +25,13 @@
 = Professional Summary
 
 #resume-item[
-  Senior software engineer with 8+ years of experience specialising in highly reliable systems software using modern C++ and Rust. Proven ability to lead projects in embedded Linux and robotics environments, from architecture to real-world deployment. Passionate open-source contributor with a focus on advancing memory-safe programming practices in Rust.
+  Senior software engineer with 8+ years of experience specialising in highly reliable systems software using modern C++, Go and Rust. Proven ability to lead projects in embedded Linux and robotics environments, from architecture to real-world deployment. Passionate open-source contributor with a focus on advancing memory-safe programming practices in Rust.
 ]
 
 = Experience
 
 #resume-entry(
-  title: "Lead Embedded Engineer",
+  title: "Lead Software Engineer",
   location: "Bristol, UK",
   date: "Apr 2024 - Present",
   description: "Dyson",

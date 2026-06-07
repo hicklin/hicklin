@@ -1,6 +1,6 @@
 # William Hicklin
 
-## Lead Embedded Systems Engineer
+## Systems Architect | Rust Developer | Embedded Engineer
 
 **Email:** [resume@hicklin.mt](mailto:resume@hicklin.mt) | **LinkedIn:** [www.linkedin.com/in/william-hicklin](https://www.linkedin.com/in/william-hicklin) | **Github:** [github.com/hicklin](https://github.com/hicklin) | **Location:** Bristol, UK
 
@@ -8,13 +8,29 @@
 
 ## Professional Summary
 
-Results-driven embedded systems engineer with 8+ years of experience developing secure, reliable software for connected devices. Proficient in Rust, C++ and embedded Linux, delivering high-quality embedded solutions through cross-functional collaboration and technical leadership. Passionate about advancing memory-safe programming practices in embedded systems through Rust adoption and open-source contributions.
+Results-driven embedded systems engineer with a decade of experience developing secure, reliable software for connected devices. Proficient in Rust, C++ and embedded Linux, delivering high-quality embedded solutions through cross-functional collaboration and technical leadership. Passionate about advancing memory-safe programming practices in embedded systems through Rust adoption and open-source contributions.
 
 ---
 
 ## Experience
 
-### **Rust software engineer** | Open-source | Aug 2025 - Present
+### **Embedded Systems Architect** | Sensoteq | Jan 2026 - Present
+
+_Bristol, UK_
+
+A fixed-term remote contract helping Sensoteq design and develop an ultrasonic data logger. Achievements include
+- The greenfield design and development of a multi-threaded Rust application collecting and processing ultra-sonic data from multiple co-processors.
+- Architecting the communications protocol across the entire system, from embedded IPC to cloud applications, based on Cap'n Proto.
+- Developing a version controlled specification document detailing the behaviour and communication APIs for all components complete with state machines, sequence diagrams and normative prose.
+- Designing and implementing code patterns enforcing spec-defined API constraints and enabling code reuse across Go and Rust.
+- Introducing CI workflows using GitHub Actions covering Cap'n Proto code generation validation, unit testing, and static analysis for Go and Rust, enforcing exhaustive error handling and branch coverage.
+- Introducing Nix flake development environments, now adopted across the team and CI pipeline, ensuring identical reproducible toolchains between local development and automated builds.
+- Mentoring engineers through detailed PR reviews and ad-hoc conversations.
+- Debugging hardware prototypes across the signal and firmware boundary using oscilloscopes and logic analysers, unblocking engineers on timing and signal integrity issues.
+
+**Technologies:** Rust, Go, Nix, asciidoc, PlantUML
+
+### **Rust software engineer** | Open-source | Aug 2025 - Jan 2026
 
 _Bristol, UK_
 
@@ -102,7 +118,7 @@ Developed an energy-efficient data logger for a seismometer for an international
 - **Embedded:** Embedded Linux, Embedded Rust, Yocto, Balena
 - **Hardware:** PCB Design, Altium Designer
 - **Standards:** Matter Protocol
-- **Tools:** Altium Designer, PlantUML
+- **Tools:** Altium Designer, PlantUML, Nix
 
 ---
 

@@ -1,13 +1,12 @@
-#import "@preview/modern-cv:0.8.0": *
+#import "@preview/modern-cv:0.10.0": *
 
 #show: resume.with(
   author: (
     firstname: "William",
     lastname: "Hicklin",
     email: "resume@hicklin.mt",
-    phone: "(+44) 07542314934",
     github: "hicklin",
-    birth: "9th March 1989",
+    birth: "1989",
     linkedin: "william-hicklin",
     positions: (
       "Systems Engineer",
@@ -18,6 +17,7 @@
   profile-picture: none,
   date: datetime.today().display(),
   language: "en",
+  font: "Libertinus Serif",
   colored-headers: false,
   show-footer: false,
   paper-size: "a4",
@@ -130,7 +130,7 @@
 = Skills
 
 #resume-skill-item(
-  "Spoken Languages", 
+  "Spoken Languages",
   ("English", "Maltese")
 )
 #resume-skill-item(

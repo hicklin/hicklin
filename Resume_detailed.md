@@ -8,13 +8,43 @@
 
 ## Professional Summary
 
-Results-driven embedded systems engineer with 7+ years of experience developing secure, reliable software for connected devices. Proficient in C++ and embedded Linux with growing expertise in Rust, delivering high-quality embedded solutions through cross-functional collaboration and technical leadership. Passionate about advancing memory-safe programming practices in embedded systems through Rust adoption and open-source contributions. 
+Results-driven embedded systems engineer with 7+ years of experience developing secure, reliable software for connected devices. Proficient in C++ and embedded Linux with growing expertise in Rust, delivering high-quality embedded solutions through cross-functional collaboration and technical leadership. Passionate about advancing memory-safe programming practices in embedded systems through Rust adoption and open-source contributions.
 
 ---
 
 ## Experience
 
-### **Lead Embedded Engineer** | Dyson | Apr 2024 - Present
+### **Embedded Systems Architect** | Sensoteq | Jan 2026 - Present
+
+_Bristol, UK_
+
+A fixed-term remote contract helping Sensoteq design and develop an ultrasonic data logger. Achievements include
+- The greenfield design and development of a multi-threaded Rust application collecting and processing ultra-sonic data from multiple co-processors.
+- Architecting the communications protocol across the entire system, from embedded IPC to cloud applications, based on Cap'n Proto.
+- Developing a version controlled specification document detailing the behaviour and communication APIs for all components complete with state machines, sequence diagrams and normative prose.
+- Designing and implementing code patterns enforcing spec-defined API constraints and enabling code reuse across Go and Rust.
+- Introducing CI workflows using GitHub Actions covering Cap'n Proto code generation validation, unit testing, and static analysis for Go and Rust, enforcing exhaustive error handling and branch coverage.
+- Introducing Nix flake development environments, now adopted across the team and CI pipeline, ensuring identical reproducible toolchains between local development and automated builds.
+- Mentoring engineers through detailed PR reviews and ad-hoc conversations.
+- Debugging hardware prototypes across the signal and firmware boundary using oscilloscopes and logic analysers, unblocking engineers on timing and signal integrity issues.
+
+**Technologies:** Rust, Go, Nix, PlantUML
+
+### **Rust software engineer** | Open-source | Aug 2025 - Jan 2026
+
+_Bristol, UK_
+
+Working on the Matter Smart Home Standard Rust SDK as an open-source contributor. I engage with tech leads from a number of organisations including Google, Espressif and the CSA and carry out the following tasks.
+
+- Lead the design and implementation of application level APIs, otherwise know as "clusters".
+- Add certification tests in CI against implemented clusters.
+- Produce documentation for SDK users and contributors.
+- Develop real-world examples and demonstrations.
+- Present work to the community.
+
+**Technologies:** Rust, Embedded Rust, Matter Protocol, PlantUML, C++
+
+### **Lead Embedded Engineer** | Dyson | Apr 2024 - Oct 2025
 
 _Bristol, UK_
 
@@ -35,9 +65,9 @@ Initiated and led strategic efforts to promote Rust as a production software lan
 
 #### Technologies & Methodologies:
 
-**Languages:** C++, Rust, Go  
-**Hardware:** Embedded rust, Embedded Linux, Microcontroller systems  
-**Tools:** PlantUML  
+**Languages:** C++, Rust, Go
+**Hardware:** Embedded rust, Embedded Linux, Microcontroller systems
+**Tools:** PlantUML
 
 ### **Senior Embedded Software Engineer** | Dyson | Feb 2020 - Apr 2024
 
@@ -58,11 +88,11 @@ I collaborated extensively with industrial designers, mechanical engineers, and 
 
 #### Technologies & Methodologies:
 
-**Languages:** C++, Go, Python, Rust  
-**Systems:** Yocto, Docker, Balena, Matter  
-**Hardware:** PCB design and implementation, embedded systems architecture  
-**Tools:** Jira, Git, Altium Designer  
-**Methodologies:** SAFe Agile, DevOps  
+**Languages:** C++, Go, Python, Rust
+**Systems:** Yocto, Docker, Balena, Matter
+**Hardware:** PCB design and implementation, embedded systems architecture
+**Tools:** Jira, Git, Altium Designer
+**Methodologies:** SAFe Agile, DevOps
 
 ### **Systems Developer** | Air Monitors Limited | Feb 2018 - Jan 2020
 
@@ -85,10 +115,10 @@ As part of the Breathe London project, I collaborated with engineers from Google
 
 #### Technologies & Methodologies:
 
-**Languages:** C++, Python, JavaScript  
-**Systems:** Embedded Linux, Yocto  
-**Cloud:** MySQL, GCP, MQTT  
-**Hardware:** Sensor integration, GPS systems, custom PCB specification  
+**Languages:** C++, Python, JavaScript
+**Systems:** Embedded Linux, Yocto
+**Cloud:** MySQL, GCP, MQTT
+**Hardware:** Sensor integration, GPS systems, custom PCB specification
 
 ### **Research Support Officer** | University of Malta | Jan 2015 - Feb 2018
 
@@ -99,7 +129,7 @@ As Research Support Officer at the University of Malta, I managed the Mobile Air
 #### Key Achievements & Responsibilities:
 
 ##### Mobile Laboratory Management & Instrumentation Expertise
-I took full responsibility for the University's Mobile Air Quality Laboratory, maintaining and operating a complex array of scientific instruments measuring particulate matter, volatile organic compounds, nitrogen oxides, and other atmospheric pollutants. This required extensive knowledge of environmental monitoring techniques, instrument calibration, and field deployment strategies. 
+I took full responsibility for the University's Mobile Air Quality Laboratory, maintaining and operating a complex array of scientific instruments measuring particulate matter, volatile organic compounds, nitrogen oxides, and other atmospheric pollutants. This required extensive knowledge of environmental monitoring techniques, instrument calibration, and field deployment strategies.
 ##### Research Data Management System Development
 I designed and implemented a comprehensive online system for instrument management and data handling using Python and Django. This custom solution automated data acquisition from multiple instrument sources, standardised data formats, implemented quality control procedures, and provided secure storage with researcher access controls. The system dramatically improved data reliability while reducing manual processing time, enabling researchers to focus on analysis rather than data management tasks.
 ##### Operational Standards & Documentation
@@ -111,9 +141,9 @@ I collaborated with faculty and graduate students to design and execute air qual
 
 #### Technologies & Methodologies:
 
-**Programming:** Python, Django, SQL, JavaScript  
-**Data Analysis:** R, Statistical methods, Time-series analysis  
-**Documentation:** LaTeX, Technical writing, SOP development  
+**Programming:** Python, Django, SQL, JavaScript
+**Data Analysis:** R, Statistical methods, Time-series analysis
+**Documentation:** LaTeX, Technical writing, SOP development
 
 ### **Systems Developer (Contract)** | University of Malta | May 2014 - Nov 2015
 
@@ -127,8 +157,8 @@ I worked closely with a multidisciplinary team of engineers and geophysicists fr
 
 #### Technologies & Methodologies:
 
-**Hardware:** Embedded microcontroller systems, Sensor interfacing  
-**Software:** Arduino, Python  
+**Hardware:** Embedded microcontroller systems, Sensor interfacing
+**Software:** Arduino, Python
 
 ---
 

@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Results-driven embedded systems engineer with 7+ years of experience developing secure, reliable software for connected devices. Proficient in C++ and embedded Linux with growing expertise in Rust, delivering high-quality embedded solutions through cross-functional collaboration and technical leadership. Passionate about advancing memory-safe programming practices in embedded systems through Rust adoption and open-source contributions.
+Results-driven embedded systems engineer with a decade of experience developing secure, reliable software for connected devices. Proficient in Rust, Go, C++ and embedded Linux with strong experience is C++, delivering high-quality embedded solutions through cross-functional collaboration and technical leadership. Passionate about advancing memory-safe programming practices in embedded systems through Rust adoption and open-source contributions.
 
 ---
 
